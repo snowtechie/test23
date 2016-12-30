@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="employer" table="x_11409_employee_p_employee_provident_fund" version="3">
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>employer</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>HCL Tech</label>
+            <language>en</language>
+            <name>x_11409_employee_p_employee_provident_fund</name>
+            <sequence>0</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2016-12-12 07:44:33</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>b5774f87db2f2200c6f45901cf961976</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2016-12-12 07:44:33</sys_updated_on>
+            <value>HCL Tech</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>employer</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Unisys Technology</label>
+            <language>en</language>
+            <name>x_11409_employee_p_employee_provident_fund</name>
+            <sequence>1</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2016-12-12 07:44:33</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>7d774f87db2f2200c6f45901cf961976</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2016-12-12 07:44:33</sys_updated_on>
+            <value>Unisys Technology</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>employer</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Thomson Reuters</label>
+            <language>en</language>
+            <name>x_11409_employee_p_employee_provident_fund</name>
+            <sequence>2</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2016-12-12 07:44:33</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>71774f87db2f2200c6f45901cf961977</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2016-12-12 07:44:33</sys_updated_on>
+            <value>Thomson Reuters</value>
+        </sys_choice>
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>employer</element>
+            <name>x_11409_employee_p_employee_provident_fund</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2016-12-12 07:44:33</sys_created_on>
+            <sys_customer_update>false</sys_customer_update>
+            <sys_id>b9774f87db2f2200c6f45901cf961976</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_name>employer</sys_name>
+            <sys_package display_value="Employee Provident Fund" source="x_11409_employee_p">3db54f8bdbab2200c6f45901cf961938</sys_package>
+            <sys_policy/>
+            <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+            <sys_scope display_value="Employee Provident Fund">3db54f8bdbab2200c6f45901cf961938</sys_scope>
+            <sys_update_name>sys_choice_x_11409_employee_p_employee_provident_fund_employer</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2016-12-12 07:44:33</sys_updated_on>
+        </sys_choice_set>
+    </sys_choice>
+</record_update>
