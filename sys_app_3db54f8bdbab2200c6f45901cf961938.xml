@@ -27,7 +27,7 @@
         <sys_updated_by>admin</sys_updated_by>
         <sys_updated_on>2016-12-12 07:36:54</sys_updated_on>
         <template/>
-        <trackable>true</trackable>
+        <trackable>false</trackable>
         <user_role display_value="x_11409_employee_p.user" name="x_11409_employee_p.user">31b54787db2f2200c6f45901cf96196a</user_role>
         <vendor/>
         <vendor_prefix/>
